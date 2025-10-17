@@ -33,7 +33,7 @@ Hi! I'm Dania, a MS student in Data Science with a strong passion for uncovering
 - [**Student Performance Prediction**](https://github.com/Dania-019/student-performance-prediction)  
   > Used linear regression to predict math scores based on reading/writing.
 
-## 📊Stats & GitHub Activity
+## Stats & GitHub Activity
 
 ![Dania's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dania-019&show_icons=true&theme=radical)
 
@@ -45,7 +45,7 @@ Hi! I'm Dania, a MS student in Data Science with a strong passion for uncovering
 - [LinkedIn](https://www.linkedin.com/in/Dania Saleem/)
 
 
-## 🧭 Table of Contents
+## Table of Contents
 
 - [About Me](#-about-me)
 - [Skills](#️-skills)
@@ -71,7 +71,7 @@ Hi! I'm Dania, a MS student in Data Science with a strong passion for uncovering
 
 
 
-## ✅ Goals
+## Goals
 
 - [x] Learn Markdown
 - [x] Build 3 projects
